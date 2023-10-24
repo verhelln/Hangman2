@@ -1,5 +1,5 @@
 // file name GrpPrj1.c
-// This is a test to see if I can edit the file
+// This code is a Hangman game exersise for my CS-125 class
 
 #include <stdio.h>
 #include <stdlib.h>
